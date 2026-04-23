@@ -23,7 +23,7 @@ Intended to support the following major:
   - Accounting
   - English Language
  
-However, the field can be as specific as possible. Such as, "Thermodynamic I", "Calculus I", etc.
+  However, the field can be as specific as possible. Such as, "Thermodynamic I", "Calculus I", etc.
 
 - Account
 Implemented profile dashboard to monitor user's course or enrolled course.
